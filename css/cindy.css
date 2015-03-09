@@ -1,0 +1,92 @@
+.heading{
+	color: #7CCF29;
+	font-family: "calibri";
+	font-size: 50px;
+	text-align: center;
+}
+ul{
+    list-style-type: none;
+}
+.rating4{
+	width: 50px;
+	display: inline-block;
+	margin-left: -75px;
+}
+.rating3{
+	width: 50px;
+	display: inline-block;
+	margin-bottom: -20px;
+	margin-left: -75px;
+}
+.review{
+	margin-top:-125px;
+	width: 200px;
+	display: block;
+	margin-left: 5px;
+}
+
+.btn {
+	border: none;
+	margin-top: 15px;
+	margin-left: 5px;
+}
+.toolbar {
+	height: 75px;
+}
+.cindy{
+	width: 200px;
+}
+a {
+    width: 60px;
+}
+
+.text{
+	text-transform: initial;
+	font-size: 20px;
+	padding-left: 10px;
+}
+a:hover, a:active {
+    background-color: #7A991A;
+}
+
+a:link, a:visited {
+	border: 2px solid white;
+    color: black;
+    background-color: #FFFFCC;
+    width: 120px;
+    text-align: center;
+    padding: 4px;
+    text-decoration: none;
+}
+
+.logo {
+	display: inline-block;
+	float: right;
+	height: 40px;
+	margin-top: 5px;
+	margin-right: 10px;
+}
+.map {
+	display: block;
+	margin-left: auto;
+    margin-right: auto;	
+}
+.btn-group {
+	display:block;
+}
+#left {
+	float: left;
+	margin-left: 5px;
+	margin-top: 10px;
+}
+#right {
+	float: right;
+	margin-right: 5px;
+	margin-top: 10px;
+}
+#btn-main {
+	margin-top: 30px;
+	width: 100%;
+	background-color: #7CCF29;
+	bottom: 10px;
+}

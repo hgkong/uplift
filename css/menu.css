@@ -1,0 +1,57 @@
+.toolbar {
+	height: 60px;
+	text-align: center;
+	background-color: #f6f0e8;
+	border-bottom: solid gray 1px;
+}
+img {
+	display: inline;
+	background-color: #f6f0e8;
+}
+table {
+	display: inline-block;
+	width: 50%;
+	height: 100%;
+	border-right: solid gray 1px;
+	background-color: #f6f0e8;
+}
+tr {
+	height: 50px;
+	border-bottom: solid gray 1px;
+	margin-right: 0;
+
+}
+td {
+	padding-left: 20px;
+	width: 100%;
+}
+span {
+    display: block;
+    height: 60px;
+    width: 60px;
+    line-height: 60px;
+
+    -moz-border-radius: 30px; /* or 50% */
+    border-radius: 30px; /* or 50% */
+
+    text-align: center;
+    font-size: 2em;
+}
+.profile {
+	display: block;
+	height: 100px;
+	margin-top: 10px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#btn-main {
+	margin-top: 30px;
+	width: 100%;
+	background-color: #7CCF29;
+	bottom: 10px;
+}
+.map {
+	opacity: 0.5;
+	display: inline;
+	position: absolute;
+}

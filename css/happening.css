@@ -1,0 +1,20 @@
+body {
+	background-color: white;
+}
+i {
+	font-size: 24px;
+}
+.centered {
+	text-align: center;
+	width: 100%;
+}
+#btn-main {
+	margin-top: 30px;
+	background-color: #7CCF29;
+	bottom: 10px;
+}
+option {
+	padding-top: 15px;
+	padding-bottom: 15px;
+	border-bottom: solid gray 1px;
+}

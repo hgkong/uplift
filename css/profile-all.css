@@ -1,0 +1,36 @@
+body {
+	background-color: #f6f0e8;
+}
+
+.btn {
+	border: none;
+	margin-top: 15px;
+	margin-left: 5px;
+	float: left;
+	background-color: #f6f0e8;
+}
+.toolbar {
+	height: 60px;
+	text-align: center;
+	background-color: #f6f0e8;
+}
+p {
+	display: inline-block;
+	margin-top: 20px;
+}
+img {
+	width: 100%;
+	border-bottom: solid gray 1px;
+	border-top: solid gray 1px;
+}
+table {
+	background-color: #f6f0e8;
+}
+tr {
+	border-bottom: solid gray 1px;
+}
+button.btn.btn-default {
+	display: inline-block;
+	margin: 15px;
+	vertical-align: middle;
+}

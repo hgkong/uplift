@@ -1,0 +1,17 @@
+
+tr {
+	height: 80px;
+}
+td {
+	padding-left: 10px;
+	width: 20%;
+	vertical-align: center;
+}
+table {
+	border-spacing: 10px 5px;
+}
+form {
+	margin-top: 20px;
+	margin-right: 10px;
+	vertical-align: center;
+}
